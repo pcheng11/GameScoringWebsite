@@ -60,7 +60,7 @@ class MainPage extends Component {
                     </List.Item>
             )});
         return(
-            <div>
+            <div className="mainPage">
                   <Segment inverted>
                     <Input size='huge' icon='search' inverted placeholder='Search...'
                       onChange={this.inputChangeHandler}
