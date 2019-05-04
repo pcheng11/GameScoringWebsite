@@ -1,15 +1,15 @@
 .logo-image {
   background-image: url("./WechatIMG1143.jpeg");
-  height: 100%;
+  height: 100vh;
   top: -16px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  position: absolute;
 }
 
 .bar {
-  z-index: 2;
+  z-index: 5;
 }
 
 .list_item_set{
