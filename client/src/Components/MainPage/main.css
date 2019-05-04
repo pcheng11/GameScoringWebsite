@@ -1,13 +1,3 @@
-.logo-image {
-  background-image: url("./WechatIMG1143.jpeg");
-  height: 100vh;
-  top: -16px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: absolute;
-}
-
 .bar {
   z-index: 5;
 }
@@ -20,4 +10,10 @@
 
 .mainPage{
   height: 100vh;
+  background-image: url("./WechatIMG1143.jpeg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
 }
