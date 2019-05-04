@@ -61,7 +61,7 @@ class MainPage extends Component {
             )});
         return(
             <div className="mainPage">
-                  <Segment inverted>
+                  <Segment inverted className="bar">
                     <Input size='huge' icon='search' inverted placeholder='Search...'
                       onChange={this.inputChangeHandler}
                        label='Enter a Game Name'
