@@ -16,7 +16,7 @@
     "request": "^2.88.0",
     "semantic-ui-react": "^0.86.0",
     "mongodb": "^3.2.3",
-    "mongoose": "^5.5.4"
+    "mongoose": "^5.7.5"
   },
   "scripts": {
     "start": "node server.js",
