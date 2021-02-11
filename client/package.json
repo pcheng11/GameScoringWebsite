@@ -9,7 +9,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.8.1",
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "apexcharts": "^3.6.9",
+    "apexcharts": "^3.24.0",
     "axios": "^0.18.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
